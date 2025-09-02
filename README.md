@@ -4,15 +4,11 @@ This project demonstrates an external merge sort.  Create sorted runs.  Merge N 
 
 ## Description
 
-A console-mode demonstration of Merge Sorting files.  Split the inputfile into sorted run files.  Merge the sorted runs into the output file.  If the input file fits into memory, then used Internal Sort.  Otherwise use Merge Sort.  Creates a random file with random strings.  Use IsSorted() to check if the file is sorted.  
+A console-mode demonstration of Merge Sorting files.  Split the input file into sorted run files.  Merge the sorted runs into the output file.  If the input file fits into memory, then use Internal Sort.  Otherwise use Merge Sort.  Creates a random file with random strings.  Use IsSorted() to check if the file is sorted.  
 
 ## Install and Build
 
 The is a C# Console-Mode Project.  Open with  Visual Studio 2022 and above to compile. 
-
-## Sample File
-
-A sample file shows the output of the program.
 
 ## Performance
 
