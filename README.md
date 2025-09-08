@@ -23,7 +23,7 @@ Performance is good.
 | 100M | 1M | 8 m | 105 MB |
 | 100M | 10M | 3 m | 832 MB |
 
-Performance is good up 100 million items.  At 1 billion items, memory is at 99% and CPU is 12%.  A run of one billion items would take one hour.
+Performance is good up to 100 million items.  At 1 billion items, memory is at 99% and CPU is 12%.  A run of one billion items takes one hour.
 
 
 ## References
